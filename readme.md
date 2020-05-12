@@ -1,17 +1,15 @@
 ##status 
-This project is still under constuction.
+Updated Portfolio.
 
 
 ##Name
 Bernards Portfolio
 
 ##Description
-This portfolio will showcase many projects that I have either created or work on.
-when you click on the Portfolio page you will notice some images with a vault in the center. This is where I will store the files and the vaults in the center represent greater projects.
-I will be attempting to make this Portfolio as creative as possible with the technology available to me.
+All these projects have taught me how to code using various technologies.
 
 ##Usage
-This will act as a portfolio project that I will Present to employers over time.
+Showcase of various projects!!
 
 
 
